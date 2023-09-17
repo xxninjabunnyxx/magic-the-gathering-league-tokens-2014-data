@@ -1,0 +1,15 @@
+---
+object: set
+id: 2a314e02-ee9d-453b-84a2-92cf55135ee6
+code: l14
+name: League Tokens 2014
+uri: https://api.scryfall.com/sets/2a314e02-ee9d-453b-84a2-92cf55135ee6
+scryfall_uri: https://scryfall.com/sets/l14
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Al14&unique=prints
+released_at: '2014-01-01'
+set_type: token
+card_count: 4
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/default.svg?1694404800
